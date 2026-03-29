@@ -102,3 +102,5 @@ Recommended models are listed in this repository. In order to simplify learning 
 
 欢迎关注“GiantPandaCV”公众号以及“神经网络架构搜索”公众号查看相关博客。
 
+edited by İrem
+day 6 learning step
